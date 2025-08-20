@@ -11,7 +11,7 @@ Our mission is to create a **secure, scalable, and user-owned Web3 infrastructur
 ## 📄 Whitepaper
 Dive deeper into our vision, architecture, tokenomics, and roadmap:  
 
-👉 [Read the Full Whitepaper](./docs/TWN_Whitepaper.pdf)  
+👉 [Read the Full Whitepaper](./TWN_Whitepaper.pdf)  
 
 ---
 
